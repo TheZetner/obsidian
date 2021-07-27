@@ -1,7 +1,7 @@
 {
   "theme": "obsidian",
   "cssTheme": "Obsidian gruvbox",
-  "baseFontSize": 13,
+  "baseFontSize": 17,
   "enabledCssSnippets": [
     "hideblockids",
     "sizeofembed",
