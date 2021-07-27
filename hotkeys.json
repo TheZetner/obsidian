@@ -1,4 +1,12 @@
 {
+  "random-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "r"
+    }
+  ],
   "editor:fold-all": [
     {
       "modifiers": [
@@ -41,6 +49,17 @@
       "key": "'"
     }
   ],
+
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "G"
+    }
+  ],
+
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
@@ -57,6 +76,39 @@
         "Shift"
       ],
       "key": "."
+    }
+  ],
+  "hotkeysplus-obsidian:toggle-block-quote": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:toggle-fold": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
     }
   ]
 }
