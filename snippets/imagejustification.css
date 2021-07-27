@@ -1,0 +1,39 @@
+/* ######################################################
+https://github.com/whyt-byte/Blue-Topaz_Obsidian-css/blob/64a39fb3bf1fabdcff225cdf5d64581b9a7792f9/obsidian.css#L5275-L5309
+###################################################### */
+
+/* ============ */
+/* ============ */
+/*image position*/
+/* ============ */
+/* ============ */
+
+img[alt$="left"],
+img[alt$="Left"],
+img[alt$="LEFT"],
+img[alt$="L"] {
+  margin-left: 0;
+}
+
+img[alt$="right"],
+img[alt$="Right"],
+img[alt$="RIGHT"],
+img[alt$="R"] {
+  margin-right: 0;
+}
+
+img[alt$="inlineL"],
+img[alt$="InlineL"],
+img[alt$="INLINEL"],
+img[alt$="inlL"] {
+  float: left;
+  padding: 8px 8px 8px 0px;
+}
+
+img[alt$="inlineR"],
+img[alt$="InlineR"],
+img[alt$="INLINER"],
+img[alt$="inlR"] {
+  float: right;
+  padding: 8px 0px 8px 8px;
+}

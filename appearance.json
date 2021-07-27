@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Obsidian gruvbox",
+  "baseFontSize": 13,
+  "enabledCssSnippets": [
+    "hideblockids",
+    "sizeofembed",
+    "imagejustification"
+  ]
+}

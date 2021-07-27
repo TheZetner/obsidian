@@ -1,0 +1,21 @@
+/* ######################################################
+https://github.com/whyt-byte/Blue-Topaz_Obsidian-css/blob/master/Asymmetric%20Blue%20Topaz/Asymmetric%20Blue%20Topaz.css
+###################################################### */
+
+/* images : reduce displayed size of embedded files, zoom on hover */
+.markdown-preview-view img, .markdown-preview-view video {
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    max-height: 450px;
+    max-width: 825px;
+    outline: 0px solid var(--text-accent);
+  }
+  .markdown-preview-view img:hover , .markdown-preview-view video:hover {
+    width: 100%;
+    height:100%;
+    max-width: min(100%, 80vw);
+    max-height: min(100%, 80vh);
+    outline: none;
+    cursor: zoom-in;
+  }
