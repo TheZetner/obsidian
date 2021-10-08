@@ -5,6 +5,7 @@
   "enabledCssSnippets": [
     "hideblockids",
     "sizeofembed",
-    "biggerpopup"
+    "biggerpopup",
+    "text-highlight"
   ]
 }

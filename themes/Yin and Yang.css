@@ -897,6 +897,7 @@ PASTEL COLORS
 
 .theme-dark {
   --cerulean: #84b6ff;
+  --text-selection: #567799;
   --em-color: var(--cerulean);
   --strong-color: hsl(var(--boldlightpink));
   --accent-hsl: var(--d-accent-h), var(--d-accent-s), var(--d-accent-l);
