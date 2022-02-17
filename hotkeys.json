@@ -46,10 +46,9 @@
         "Mod",
         "Shift"
       ],
-      "key": "'"
+      "key": "Q"
     }
   ],
-
   "graph:open-local": [
     {
       "modifiers": [
@@ -59,7 +58,6 @@
       "key": "G"
     }
   ],
-
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
@@ -76,15 +74,6 @@
         "Shift"
       ],
       "key": "."
-    }
-  ],
-  "hotkeysplus-obsidian:toggle-block-quote": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "Q"
     }
   ],
   "editor:swap-line-up": [
@@ -109,6 +98,16 @@
         "Alt"
       ],
       "key": "ArrowUp"
+    }
+  ],
+  "table-editor-obsidian:next-cell": [],
+  "editor:toggle-checklist-status": [],
+  "hotkeysplus-obsidian:better-toggle-todo": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
     }
   ]
 }
