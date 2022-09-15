@@ -100,7 +100,6 @@
       "key": "ArrowUp"
     }
   ],
-  "table-editor-obsidian:next-cell": [],
   "editor:toggle-checklist-status": [],
   "hotkeysplus-obsidian:better-toggle-todo": [
     {
@@ -108,6 +107,16 @@
         "Mod"
       ],
       "key": "Enter"
+    }
+  ],
+  "table-editor-obsidian:next-cell": [],
+  "templater-obsidian:jump-to-next-cursor-location": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "N"
     }
   ]
 }

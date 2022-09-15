@@ -2,12 +2,12 @@
   "table-editor-obsidian",
   "obsidian-git",
   "obsidian-mind-map",
-  "obsidian-reveal-active-file",
   "obsidian-style-settings",
-  "hotkeysplus-obsidian",
   "better-word-count",
   "markdown-prettifier",
-  "obsidian-view-mode-by-frontmatter",
   "pane-relief",
-  "obsidian-copy-block-link"
+  "obsidian-copy-block-link",
+  "obsidian-excel-to-markdown-table",
+  "templater-obsidian",
+  "hotkeysplus-obsidian"
 ]

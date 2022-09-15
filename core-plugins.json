@@ -6,6 +6,7 @@
   "backlink",
   "tag-pane",
   "page-preview",
+  "templates",
   "note-composer",
   "command-palette",
   "starred",
@@ -13,7 +14,6 @@
   "random-note",
   "outline",
   "slides",
-  "open-with-default-app",
   "workspaces",
   "file-recovery"
 ]
