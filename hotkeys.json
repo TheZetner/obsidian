@@ -113,10 +113,17 @@
   "templater-obsidian:jump-to-next-cursor-location": [
     {
       "modifiers": [
-        "Alt",
-        "Shift"
+        "Mod"
       ],
-      "key": "N"
+      "key": "Tab"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
     }
   ]
 }
