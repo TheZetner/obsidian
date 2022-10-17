@@ -16,8 +16,12 @@
                 "id": "70f9f1f21cf84791",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "app-related/Git.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 },
                 "group": "e41cfadbd1431b12"
               }
@@ -101,7 +105,9 @@
                     "pinned": true,
                     "state": {
                       "type": "outline",
-                      "state": {},
+                      "state": {
+                        "file": "app-related/Git.md"
+                      },
                       "pinned": true
                     },
                     "group": "e41cfadbd1431b12"
@@ -198,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "app-related/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "app-related/Git.md"
+              }
             }
           }
         ]
@@ -239,6 +248,8 @@
   },
   "active": "70f9f1f21cf84791",
   "lastOpenFiles": [
+    "files/Pasted image 20220928111453.png",
+    "app-related/Git.md",
     "Code-A-Thon.md",
     "null.md",
     "journal/2022/20220913.md",
@@ -246,8 +257,6 @@
     "_/Quick Links.md",
     "testy.md",
     "Ah Hoc Analysis.md",
-    "templates/templater/Project.md",
-    "journal/2022/20221010.md",
-    "Obsidian Settings.md"
+    "templates/templater/Project.md"
   ]
 }
