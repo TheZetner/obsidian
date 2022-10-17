@@ -1,0 +1,118 @@
+/* ######################################################
+
+###################################################### */
+
+/* @settings
+name: Readable Line Width
+id: AZ
+settings:
+  - 
+    id: line-width
+    title: Readable Line Width
+    description: The maximum line width in rem units for readable line width
+    type: variable-number
+    default: 47
+    format: rem
+  -
+*/
+:root {
+--line-width: 47rem;
+}
+
+/*  ----------------------------------------------------------------
+CUSTOM/READABLE LINE WIDTH 
+----------------------------------------------------------------*/
+
+.mod-root #calendar-container.is-readable-line-width,
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  max-width: var(--max-width);
+  width: var(--line-width);
+}
+
+.mod-root .markdown-source-view.is-readable-line-width .CodeMirror,
+.mod-root .is-readable-line-width .markdown-preview-section {
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 auto 0 auto;
+  width: var(--line-width);
+  max-width: var(--max-width);
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: var(--max-width);
+  width: var(--line-width);
+}
+
+.markdown-source-view.mod-cm6 {
+  height: 100%;
+  max-width: var(--max-width);
+  width: var(--line-width) !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.markdown-embed-content .markdown-preview-sizer {
+  padding-top: 0;
+}
+
+.markdown-preview-view:not(.is-readable-line-width)
+  .markdown-embed
+  .markdown-preview-sizer {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.markdown-embed.is-readable-line-width .markdown-preview-section {
+  margin: 0;
+  width: auto;
+  max-width: none;
+}
+
+.is-readable-line-width .markdown-preview-section {
+  margin: 0 auto 0 auto;
+  width: var(--line-width);
+  max-width: var(--max-width);
+}
+
+body:not(.is-mobile) .markdown-preview-view .markdown-preview-sizer,
+body:not(.is-mobile)
+  .markdown-preview-view.is-readable-line-width
+  .markdown-preview-sizer {
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+body.is-mobile .markdown-preview-view .markdown-preview-sizer,
+body.is-mobile
+  .markdown-preview-view.is-readable-line-width
+  .markdown-preview-sizer {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.markdown-preview-section {
+  padding-top: 0.5rem;
+}
+
+html .CodeMirror-lines {
+  padding-top: 3rem;
+}
+
+.markdown-embed .markdown-preview-section {
+  width: auto;
+  max-width: none;
+}
+
+body:not(.is-mobile) .markdown-embed .markdown-preview-view {
+  padding: 20px 20px 20px 20px;
+}
+
+/*NOTES IS SIDE PANE*/
+
+.workspace-tabs .markdown-preview-view {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+

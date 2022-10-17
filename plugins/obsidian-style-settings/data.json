@@ -6,7 +6,6 @@
   "Yin and Yang@@header-font-ed": "karmilla",
   "Yin and Yang@@font-monospace": "roboto mono",
   "Yin and Yang@@l-accent": "#FDA422",
-  "Yin and Yang@@d-accent": "#817C8D",
   "Yin and Yang@@base-s": 8,
   "Yin and Yang@@wys-headings": false,
   "Yin and Yang@@wys-enhanced": false,
@@ -35,7 +34,7 @@
   "Yin and Yang@@persistent-sb": false,
   "Yin and Yang@@no-status-icon": false,
   "Yin and Yang@@macOS-translucent": false,
-  "Yin and Yang@@line-width": 50,
+  "Yin and Yang@@line-width": 60,
   "Yin and Yang@@d-blockquote": "#817C8D",
   "Yin and Yang@@strong-color@@dark": "#B9E28C",
   "Yin and Yang@@spec-color-head": true,
@@ -54,5 +53,14 @@
   "Yin and Yang@@sphd-pre-5@@dark": "#2A6F97",
   "Yin and Yang@@sphd-ed-5@@dark": "#2A6F97",
   "Yin and Yang@@em-color@@dark": "#BFD7EA",
-  "Yin and Yang@@text-highlight-rgb@@dark": "#D6D84F"
+  "Yin and Yang@@text-highlight-rgb@@dark": "#D6D84F",
+  "Yin and Yang@@d-accent": "#8FFAD2",
+  "Yin and Yang@@s-header-1-ed": 2.35,
+  "Yin and Yang@@s-header-2-pre": 2.05,
+  "Yin and Yang@@s-header-1-pre": 2.35,
+  "Yin and Yang@@s-header-2-ed": 2.05,
+  "pane-relief@@pane-relief-disable-counts": false,
+  "typomagical-text@@alignment": "align-left",
+  "AZ@@line-width": 60,
+  "typomagical-title@@alignment-title": "align-title-left"
 }

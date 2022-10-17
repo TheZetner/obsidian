@@ -5,7 +5,7 @@
   "foldIndent": true,
   "fileSortOrder": "byCreatedTime",
   "attachmentFolderPath": "Files",
-  "readableLineLength": true,
+  "readableLineLength": false,
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
@@ -13,5 +13,9 @@
     "downscalePercent": 80
   },
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "showInlineTitle": false,
+  "userIgnoreFilters": [
+    "templates/"
+  ]
 }

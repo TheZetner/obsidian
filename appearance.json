@@ -1,11 +1,16 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Yin and Yang",
+  "cssTheme": "Typomagical",
   "baseFontSize": 17,
   "enabledCssSnippets": [
     "hideblockids",
-    "sizeofembed",
     "biggerpopup",
+    "readable-line-width",
+    "sizeofembed",
+    "narrowermenu",
     "text-highlight"
-  ]
+  ],
+  "translucency": false,
+  "accentColor": "",
+  "showViewHeader": true
 }
