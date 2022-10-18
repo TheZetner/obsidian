@@ -1,10 +1,10 @@
 {
   "command_timeout": 5,
-  "templates_folder": "",
+  "templates_folder": "templates/templater",
   "templates_pairs": [
     [
       "updateweekly",
-      "wsl.exe bash templates/scripts/update-weekly.sh"
+      "wsl.exe bash .obsidian/scripts/update-weekly.sh"
     ],
     [
       "",
