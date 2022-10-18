@@ -1,10 +1,14 @@
 {
   "command_timeout": 5,
-  "templates_folder": "templates/templater",
+  "templates_folder": "",
   "templates_pairs": [
     [
-      "echo",
-      "wsl.exe echo $PWD"
+      "updateweekly",
+      "wsl.exe bash templates/scripts/update-weekly.sh"
+    ],
+    [
+      "",
+      ""
     ]
   ],
   "trigger_on_file_creation": false,

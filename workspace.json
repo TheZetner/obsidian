@@ -63,7 +63,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "journal/2022/20221017.md",
+                        "file": "Code-A-Thon.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -91,8 +91,7 @@
                         }
                       },
                       "pinned": true
-                    },
-                    "group": "e41cfadbd1431b12"
+                    }
                   }
                 ]
               },
@@ -168,8 +167,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bash",
-                "matchingCase": false,
+                "query": "tag:#2022",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -237,12 +236,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
@@ -250,14 +249,14 @@
   "active": "70f9f1f21cf84791",
   "lastOpenFiles": [
     "_/Quick Links.md",
-    "journal/2022/20221017.md",
-    "templates/templater/Note.md",
-    "asdfasdf.md",
+    "_/Home.md",
+    "software/Obsidian.md",
     "templates/templater/Weekly.md",
     "Templater.md",
-    "templates/templater/Software.md",
-    "Obsidian Settings.md",
-    "app-related/Obsidian.md",
-    "Echo.md"
+    "journal/2022/20221017.md",
+    "projects/Border Testing.md",
+    "journal/2022/20221018.md",
+    "journal/2022/null.md",
+    "templates/templater/Software.md"
   ]
 }
