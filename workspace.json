@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "app-related/Git.md",
+                    "file": "journal/2022/20221017.md",
                     "mode": "source",
                     "source": false
                   }
@@ -63,7 +63,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Code-A-Thon.md",
+                        "file": "journal/2022/20221017.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -91,7 +91,8 @@
                         }
                       },
                       "pinned": true
-                    }
+                    },
+                    "group": "e41cfadbd1431b12"
                   }
                 ]
               },
@@ -106,7 +107,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "app-related/Git.md"
+                        "file": "journal/2022/20221017.md"
                       },
                       "pinned": true
                     },
@@ -167,8 +168,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2022",
-                "matchingCase": true,
+                "query": "tag:#bash",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -204,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "app-related/Git.md",
+                "file": "journal/2022/20221017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,31 +233,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "app-related/Git.md"
+                "file": "journal/2022/20221017.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "70f9f1f21cf84791",
   "lastOpenFiles": [
-    "files/Pasted image 20220928111453.png",
-    "app-related/Git.md",
-    "Code-A-Thon.md",
-    "null.md",
-    "journal/2022/20220913.md",
-    "Operational Reports.md",
     "_/Quick Links.md",
-    "testy.md",
-    "Ah Hoc Analysis.md",
-    "templates/templater/Project.md"
+    "journal/2022/20221017.md",
+    "templates/templater/Note.md",
+    "asdfasdf.md",
+    "templates/templater/Weekly.md",
+    "Templater.md",
+    "templates/templater/Software.md",
+    "Obsidian Settings.md",
+    "app-related/Obsidian.md",
+    "Echo.md"
   ]
 }
