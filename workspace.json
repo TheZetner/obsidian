@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "journal/2022/20221017.md",
+                    "file": "_/Home.md",
                     "mode": "source",
                     "source": false
                   }
@@ -63,7 +63,7 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Code-A-Thon.md",
+                        "file": "_/Home.md",
                         "options": {
                           "collapse-filter": true,
                           "search": "",
@@ -77,7 +77,7 @@
                           "collapse-color-groups": true,
                           "colorGroups": [],
                           "collapse-display": true,
-                          "showArrow": false,
+                          "showArrow": true,
                           "textFadeMultiplier": 0,
                           "nodeSizeMultiplier": 1,
                           "lineSizeMultiplier": 1,
@@ -86,12 +86,13 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 0.7132754626224425,
+                          "scale": 0.5087618855792594,
                           "close": true
                         }
                       },
                       "pinned": true
-                    }
+                    },
+                    "group": "e41cfadbd1431b12"
                   }
                 ]
               },
@@ -106,7 +107,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "journal/2022/20221017.md"
+                        "file": "_/Home.md"
                       },
                       "pinned": true
                     },
@@ -204,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022/20221017.md",
+                "file": "_/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022/20221017.md"
+                "file": "_/Home.md"
               }
             }
           }
@@ -248,15 +249,15 @@
   },
   "active": "70f9f1f21cf84791",
   "lastOpenFiles": [
-    "_/Quick Links.md",
-    "journal/2022/20221018.md",
-    "journal/2022/20221017.md",
+    "projects/Operational Report - Weekly.md",
     "_/Home.md",
-    "software/Obsidian.md",
-    "templates/templater/Weekly.md",
-    "Templater.md",
-    "projects/Border Testing.md",
-    "journal/2022/null.md",
-    "templates/templater/Software.md"
+    "journal/2022/20221010.md",
+    "Ah Hoc Analysis.md",
+    "y2022.md",
+    "software/SED.md",
+    "_/Tasks.md",
+    "_/Quick Links.md",
+    "journal/2022/20221017.md",
+    "Templater.md"
   ]
 }

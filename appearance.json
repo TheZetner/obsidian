@@ -3,7 +3,6 @@
   "cssTheme": "Typomagical",
   "baseFontSize": 17,
   "enabledCssSnippets": [
-    "hideblockids",
     "biggerpopup",
     "readable-line-width",
     "sizeofembed",
