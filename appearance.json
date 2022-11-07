@@ -5,9 +5,9 @@
   "enabledCssSnippets": [
     "biggerpopup",
     "readable-line-width",
-    "sizeofembed",
     "narrowermenu",
-    "text-highlight"
+    "text-highlight",
+    "sizeofembed"
   ],
   "translucency": false,
   "accentColor": "",

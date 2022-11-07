@@ -10,27 +10,44 @@
           {
             "id": "be286ea2cd417b69",
             "type": "tabs",
-            "dimension": 77.52365930599369,
+            "dimension": 76.38724911452184,
             "children": [
               {
                 "id": "70f9f1f21cf84791",
                 "type": "leaf",
                 "state": {
-                  "type": "graph",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "journal/2022/20221107.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 },
                 "group": "e41cfadbd1431b12"
+              },
+              {
+                "id": "f539f5273b83bb97",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Obsidian Presentation.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ]
           },
           {
             "id": "d509178f6835cf5d",
             "type": "split",
-            "dimension": 22.476340694006307,
+            "dimension": 23.612750885478157,
             "children": [
               {
                 "id": "ed02909ad0bdc776",
                 "type": "tabs",
+                "dimension": 25,
                 "children": [
                   {
                     "id": "1f24fa95e09cabbb",
@@ -51,6 +68,7 @@
               {
                 "id": "76204631fcf385a4",
                 "type": "tabs",
+                "dimension": 27.317415730337082,
                 "children": [
                   {
                     "id": "bc277f537771efc5",
@@ -59,15 +77,15 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "Snakemake.md",
+                        "file": "journal/2022/20221107.md",
                         "options": {
-                          "collapse-filter": true,
+                          "collapse-filter": false,
                           "search": "",
-                          "localJumps": 1,
+                          "localJumps": 2,
                           "localBacklinks": true,
                           "localForelinks": true,
-                          "localInterlinks": false,
-                          "showTags": false,
+                          "localInterlinks": true,
+                          "showTags": true,
                           "showAttachments": false,
                           "hideUnresolved": false,
                           "collapse-color-groups": true,
@@ -82,7 +100,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 1.0000000000000013,
+                          "scale": 0.1846232622585815,
                           "close": true
                         }
                       },
@@ -95,6 +113,7 @@
               {
                 "id": "1887a665d643c89d",
                 "type": "tabs",
+                "dimension": 22.682584269662918,
                 "children": [
                   {
                     "id": "4ad5e1ede8935fd9",
@@ -103,7 +122,7 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "Snakemake.md"
+                        "file": "journal/2022/20221107.md"
                       },
                       "pinned": true
                     },
@@ -114,6 +133,7 @@
               {
                 "id": "d10cf4cd99db632e",
                 "type": "tabs",
+                "dimension": 25,
                 "children": [
                   {
                     "id": "68b49eccadd385bf",
@@ -154,7 +174,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -164,12 +184,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#polio",
-                "matchingCase": true,
+                "query": "tag:#software",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -181,8 +201,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,6 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "journal/2022/20221107.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +238,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -228,6 +248,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "journal/2022/20221107.md"
+              }
+            }
+          },
+          {
+            "id": "58c983a9b4d10dc6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
@@ -238,20 +268,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "362e2baf4420b27a",
+  "active": "70f9f1f21cf84791",
   "lastOpenFiles": [
-    "Snakemake.md",
-    "CSVSG Ad Hoc Polio.md",
-    "journal/2022/20220919.md",
-    "Fall 2021 Coop Project.md",
-    "software/CSVTK.md",
-    "_/Home.md",
-    "software.md",
-    "Date.md",
-    "software/instructions/Xaringan.md",
-    "software/instructions/Auspice.md"
+    "Obsidian Settings.md",
+    "journal/2022/20221107.md",
+    "Obsidian Presentation.md",
+    "Data Analytics.md",
+    "templates/templater/Activity.md",
+    "templates/templater/Now.md",
+    "Utilitarian.md",
+    "journal/2022/20220117.md",
+    "Reinfection Report.md",
+    "journal/2022/20220228.md"
   ]
 }

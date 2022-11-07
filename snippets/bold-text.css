@@ -1,0 +1,28 @@
+/* ######################################################
+Bold text colour? Doesn't work
+###################################################### */
+
+/* @settings
+name: Bold Text Colour
+id: AZ
+settings:
+  - 
+		id: bold-colour
+		title: Bold text colour
+		description: Overwrite bold color with one of your choice
+		type: variable-color
+		format: hex
+		default: '#F1FEC6'
+  -
+*/
+
+.theme-dark {
+  --bold-colour: #F1FEC6;
+}
+/* Bold font */
+b,
+ .cm-s-obsidian .cm-strong {
+  font-weight: 600;
+  font-weight: var(--bold-weight);
+  color: var(--bold-colour);
+ }

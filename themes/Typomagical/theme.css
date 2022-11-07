@@ -378,7 +378,8 @@ settings:
 
 .theme-dark {
   --title-gradient-top: var(--text-normal);
-  --title-gradient-bottom: var(--link-color);
+	--title-gradient-bottom: var(--link-color);
+	--bold-colour: #F1FEC6;
 }
 
 .ss-title-gradient .inline-title,
@@ -824,6 +825,7 @@ b,
 .cm-s-obsidian .cm-strong {
   font-weight: 600;
   font-weight: var(--bold-weight);
+  color: var(--bold-colour);
 }
 
 .markdown-preview-view hr {
@@ -919,6 +921,13 @@ settings:
 		min: 200
 		max: 800
 		step: 100
+	-
+		id: bold-colour
+		title: Bold text colour
+		description: Overwrite bold colour with one of your choice
+		type: variable-color
+		format: hex
+		default: '#F1FEC6'
 	-
 		id: bold-weight
 		title: Bold text weight
