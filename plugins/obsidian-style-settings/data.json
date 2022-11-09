@@ -62,5 +62,6 @@
   "pane-relief@@pane-relief-disable-counts": false,
   "typomagical-text@@alignment": "align-left",
   "typomagical-title@@alignment-title": "align-title-left",
-  "typomagical-text@@blockquote": "blockquote-bustle"
+  "typomagical-text@@blockquote": "blockquote-bustle",
+  "AZ@@line-width": 70
 }

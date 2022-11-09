@@ -10,7 +10,7 @@
           {
             "id": "be286ea2cd417b69",
             "type": "tabs",
-            "dimension": 76.38724911452184,
+            "dimension": 77.52365930599369,
             "children": [
               {
                 "id": "70f9f1f21cf84791",
@@ -24,30 +24,17 @@
                   }
                 },
                 "group": "e41cfadbd1431b12"
-              },
-              {
-                "id": "f539f5273b83bb97",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Obsidian Presentation.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
             ]
           },
           {
             "id": "d509178f6835cf5d",
             "type": "split",
-            "dimension": 23.612750885478157,
+            "dimension": 22.476340694006307,
             "children": [
               {
                 "id": "ed02909ad0bdc776",
                 "type": "tabs",
-                "dimension": 25,
                 "children": [
                   {
                     "id": "1f24fa95e09cabbb",
@@ -68,7 +55,6 @@
               {
                 "id": "76204631fcf385a4",
                 "type": "tabs",
-                "dimension": 27.317415730337082,
                 "children": [
                   {
                     "id": "bc277f537771efc5",
@@ -79,13 +65,13 @@
                       "state": {
                         "file": "journal/2022/20221107.md",
                         "options": {
-                          "collapse-filter": false,
+                          "collapse-filter": true,
                           "search": "",
-                          "localJumps": 2,
+                          "localJumps": 1,
                           "localBacklinks": true,
                           "localForelinks": true,
-                          "localInterlinks": true,
-                          "showTags": true,
+                          "localInterlinks": false,
+                          "showTags": false,
                           "showAttachments": false,
                           "hideUnresolved": false,
                           "collapse-color-groups": true,
@@ -100,7 +86,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 0.1846232622585815,
+                          "scale": 0.3628873693012121,
                           "close": true
                         }
                       },
@@ -113,7 +99,6 @@
               {
                 "id": "1887a665d643c89d",
                 "type": "tabs",
-                "dimension": 22.682584269662918,
                 "children": [
                   {
                     "id": "4ad5e1ede8935fd9",
@@ -133,7 +118,6 @@
               {
                 "id": "d10cf4cd99db632e",
                 "type": "tabs",
-                "dimension": 25,
                 "children": [
                   {
                     "id": "68b49eccadd385bf",
@@ -184,12 +168,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#software",
+                "query": "deparse",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -201,7 +185,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -238,7 +223,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true
               }
             }
@@ -252,33 +237,26 @@
                 "file": "journal/2022/20221107.md"
               }
             }
-          },
-          {
-            "id": "58c983a9b4d10dc6",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "70f9f1f21cf84791",
   "lastOpenFiles": [
-    "Obsidian Settings.md",
+    "R - Coding.md",
     "journal/2022/20221107.md",
-    "Obsidian Presentation.md",
-    "Data Analytics.md",
-    "templates/templater/Activity.md",
-    "templates/templater/Now.md",
+    "_/Quick Links.md",
+    "software/CSVTK.md",
+    "journal/2022/20220509.md",
+    "software/Git.md",
     "Utilitarian.md",
     "journal/2022/20220117.md",
-    "Reinfection Report.md",
-    "journal/2022/20220228.md"
+    "templates/templater/Software.md",
+    "templates/templater/Project.md"
   ]
 }
