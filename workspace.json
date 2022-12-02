@@ -1,0 +1,677 @@
+{
+  "main": {
+    "id": "329fafbb6acf3233",
+    "type": "split",
+    "children": [
+      {
+        "id": "15e69822742dfe7d",
+        "type": "split",
+        "children": [
+          {
+            "id": "fe6bcfb3fb2f196b",
+            "type": "tabs",
+            "dimension": 44.40217391304348,
+            "children": [
+              {
+                "id": "c69cb57fc94941ed",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                },
+                "pane-relief:history-v1": {
+                  "pos": 2,
+                  "stack": [
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/Decay.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":134},\"to\":{\"line\":17,\"ch\":134}}}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Artifacts/Healing Potions.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220626.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Rat.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":80,\"ch\":0},\"to\":{\"line\":80,\"ch\":0}},\"scroll\":60.82091212458287}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Artifacts/Healing Potions.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":20},\"to\":{\"line\":14,\"ch\":20}}}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Resources/Decay.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220626.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"scroll\":11.10022615131579}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220724.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"NPCs/Jacquard Lamollard.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220724.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"scroll\":24.29143492769744}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220116.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220724.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":45},\"to\":{\"line\":12,\"ch\":0}}}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Mithril Net.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220724.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":0},\"to\":{\"line\":27,\"ch\":0}},\"scroll\":17.64516129032258}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Secrets.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":4},\"to\":{\"line\":9,\"ch\":4}},\"scroll\":0}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sessions/20210516.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"NPCs/Tower Girls.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":190,\"ch\":0},\"to\":{\"line\":190,\"ch\":0}},\"scroll\":34.999039846375425}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220724.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":34},\"to\":{\"line\":25,\"ch\":34}},\"scroll\":12.614309210526315}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"June26.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                    },
+                    {
+                      "leaf": "c69cb57fc94941ed",
+                      "group": null,
+                      "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220626.md\",\"mode\":\"source\",\"source\":false}}",
+                      "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":108},\"to\":{\"line\":30,\"ch\":108}},\"scroll\":9.716351501668521}"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "id": "a01f1f1dfea5ef6b",
+            "type": "split",
+            "dimension": 39.619565217391305,
+            "children": [
+              {
+                "id": "dc613207531e15d4",
+                "type": "tabs",
+                "dimension": 45.515911282545815,
+                "children": [
+                  {
+                    "id": "4f03742af38bc2cc",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "20201122.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    },
+                    "pane-relief:history-v1": {
+                      "pos": 1,
+                      "stack": [
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaign Developments.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":2194.8817204301076}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20201122.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":295},\"to\":{\"line\":0,\"ch\":295}},\"scroll\":0.9610678531701891}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Piran Rowse.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Alabaster Guard.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Leis Nivlandis.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Secrets.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":2},\"to\":{\"line\":5,\"ch\":2}}}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"NPCs/Tower Girls.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"scroll\":0}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Sock n' Buskin.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"scroll\":0}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220626.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":28},\"to\":{\"line\":15,\"ch\":28}},\"scroll\":11.922594572368421}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Creature Baits.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220626.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220724.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220626.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220619.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extradimensional Coin Purse.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"NotesFeb20.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Thalasonian Coins.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Potion of Trauma Remediation.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Extradimensional Coin Purse.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "leaf": "4f03742af38bc2cc",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220410.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "85c53f30ed333799",
+                "type": "tabs",
+                "dimension": 54.484088717454185,
+                "children": [
+                  {
+                    "id": "80c350bfcf1591f8",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "20220807.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    },
+                    "pane-relief:history-v1": {
+                      "pos": 1,
+                      "stack": [
+                        {
+                          "leaf": "80c350bfcf1591f8",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Campaign Developments.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":1274,\"ch\":43},\"to\":{\"line\":1274,\"ch\":43}},\"scroll\":1264.6062291434928}"
+                        },
+                        {
+                          "leaf": "80c350bfcf1591f8",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220807.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":29},\"to\":{\"line\":13,\"ch\":29}},\"scroll\":0.819078947368421}"
+                        },
+                        {
+                          "leaf": "80c350bfcf1591f8",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Irespan.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":143},\"to\":{\"line\":3,\"ch\":143}},\"scroll\":3.647015202076381}"
+                        },
+                        {
+                          "leaf": "80c350bfcf1591f8",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"NPCs/Landy.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":37},\"to\":{\"line\":4,\"ch\":37}},\"scroll\":3.889487870619946}"
+                        },
+                        {
+                          "leaf": "80c350bfcf1591f8",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220724.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.8186874304783093}"
+                        },
+                        {
+                          "leaf": "80c350bfcf1591f8",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Steinskifter.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":36},\"to\":{\"line\":1,\"ch\":0}}}"
+                        },
+                        {
+                          "leaf": "80c350bfcf1591f8",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Rat.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"scroll\":73.45012977382277}"
+                        },
+                        {
+                          "leaf": "80c350bfcf1591f8",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Irespan.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{}"
+                        },
+                        {
+                          "leaf": "80c350bfcf1591f8",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Steinskifter.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{}"
+                        },
+                        {
+                          "leaf": "80c350bfcf1591f8",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"June26.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"scroll\":0}"
+                        },
+                        {
+                          "leaf": "80c350bfcf1591f8",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220605.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":34},\"to\":{\"line\":14,\"ch\":34}},\"scroll\":5.119021134593993}"
+                        },
+                        {
+                          "leaf": "80c350bfcf1591f8",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20220515.md\",\"mode\":\"source\",\"source\":false}}",
+                          "eState": "{}"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "93c81db8ffab861d",
+            "type": "split",
+            "dimension": 15.978260869565217,
+            "children": [
+              {
+                "id": "0ae57099deb363d1",
+                "type": "tabs",
+                "dimension": 66.4179104477612,
+                "children": [
+                  {
+                    "id": "56b5a60289e26e5e",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "_/Statuses.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    },
+                    "pane-relief:history-v1": {
+                      "pos": 1,
+                      "stack": [
+                        {
+                          "leaf": "56b5a60289e26e5e",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20211017.md\",\"mode\":\"source\"}}",
+                          "eState": "{\"scroll\":0}"
+                        },
+                        {
+                          "leaf": "56b5a60289e26e5e",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_/Statuses.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":75},\"to\":{\"line\":0,\"ch\":75}}}"
+                        },
+                        {
+                          "leaf": "56b5a60289e26e5e",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_/Play Quick Links.md\",\"mode\":\"preview\"}}",
+                          "eState": "{}"
+                        },
+                        {
+                          "leaf": "56b5a60289e26e5e",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Faceless Stalker.md\",\"mode\":\"source\"}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":0},\"to\":{\"line\":2,\"ch\":0}}}"
+                        },
+                        {
+                          "leaf": "56b5a60289e26e5e",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20211024.md\",\"mode\":\"source\"}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "leaf": "56b5a60289e26e5e",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20211017.md\",\"mode\":\"source\"}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":118},\"to\":{\"line\":1,\"ch\":118}}}"
+                        },
+                        {
+                          "leaf": "56b5a60289e26e5e",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Characters/Vinlan - Ripples.md\",\"mode\":\"source\"}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}}}"
+                        },
+                        {
+                          "leaf": "56b5a60289e26e5e",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20210905.md\",\"mode\":\"source\"}}",
+                          "eState": "{}"
+                        },
+                        {
+                          "leaf": "56b5a60289e26e5e",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20211003.md\",\"mode\":\"source\"}}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                        },
+                        {
+                          "leaf": "56b5a60289e26e5e",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"20211017.md\",\"mode\":\"source\"}}",
+                          "eState": "{}"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "29bd432a582a2b33",
+                "type": "tabs",
+                "dimension": 33.582089552238806,
+                "children": [
+                  {
+                    "id": "c41c93295a79f2d8",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "_/Play Quick Links.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    },
+                    "pane-relief:history-v1": {
+                      "pos": 0,
+                      "stack": [
+                        {
+                          "leaf": "c41c93295a79f2d8",
+                          "group": null,
+                          "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"_/Play Quick Links.md\",\"mode\":\"source\",\"source\":false},\"pinned\":true}",
+                          "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15647295da3d98e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1d2a5d976f2c6f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "752377db4bca5b32",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "2e0acfaf72746b68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "cda12b65d03e48f1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "605bba966442d686",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7ded4885cbb4e71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4cdb683fe98f3c4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "a23e481621e05510",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "8c400a4da51c0d6a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          },
+          {
+            "id": "1d213b3b578fe4a1",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c69cb57fc94941ed",
+  "lastOpenFiles": [
+    "20220626.md",
+    "Artifacts/Healing Potions.md",
+    "Resources/Decay.md",
+    "Rat.md",
+    "20220724.md",
+    "NPCs/Jacquard Lamollard.md",
+    "20220807.md",
+    "20201122.md",
+    "Irespan.md",
+    "Campaign Developments.md"
+  ]
+}
