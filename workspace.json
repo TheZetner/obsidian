@@ -10,7 +10,7 @@
           {
             "id": "be286ea2cd417b69",
             "type": "tabs",
-            "dimension": 77.52365930599369,
+            "dimension": 67.01902748414376,
             "children": [
               {
                 "id": "70f9f1f21cf84791",
@@ -18,8 +18,9 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "journal/2022/20221107.md",
+                    "file": "journal/2023/20230911.md",
                     "mode": "source",
+                    "backlinks": false,
                     "source": false
                   }
                 },
@@ -30,11 +31,12 @@
           {
             "id": "d509178f6835cf5d",
             "type": "split",
-            "dimension": 22.476340694006307,
+            "dimension": 32.98097251585624,
             "children": [
               {
                 "id": "ed02909ad0bdc776",
                 "type": "tabs",
+                "dimension": 27.489481065918653,
                 "children": [
                   {
                     "id": "1f24fa95e09cabbb",
@@ -45,6 +47,7 @@
                       "state": {
                         "file": "_/Tasks.md",
                         "mode": "source",
+                        "backlinks": false,
                         "source": false
                       },
                       "pinned": true
@@ -55,6 +58,7 @@
               {
                 "id": "76204631fcf385a4",
                 "type": "tabs",
+                "dimension": 32.46844319775596,
                 "children": [
                   {
                     "id": "bc277f537771efc5",
@@ -63,11 +67,11 @@
                     "state": {
                       "type": "localgraph",
                       "state": {
-                        "file": "journal/2022/20221107.md",
+                        "file": "journal/2023/20230911.md",
                         "options": {
-                          "collapse-filter": true,
+                          "collapse-filter": false,
                           "search": "",
-                          "localJumps": 1,
+                          "localJumps": 2,
                           "localBacklinks": true,
                           "localForelinks": true,
                           "localInterlinks": false,
@@ -86,7 +90,7 @@
                           "repelStrength": 10,
                           "linkStrength": 1,
                           "linkDistance": 250,
-                          "scale": 0.3628873693012121,
+                          "scale": 0.22920135941749337,
                           "close": true
                         }
                       },
@@ -99,6 +103,7 @@
               {
                 "id": "1887a665d643c89d",
                 "type": "tabs",
+                "dimension": 19.49509116409537,
                 "children": [
                   {
                     "id": "4ad5e1ede8935fd9",
@@ -107,17 +112,26 @@
                     "state": {
                       "type": "outline",
                       "state": {
-                        "file": "journal/2022/20221107.md"
+                        "file": "journal/2023/20230911.md"
                       },
                       "pinned": true
                     },
                     "group": "e41cfadbd1431b12"
+                  },
+                  {
+                    "id": "49b6ae07c5d6a43a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "recent-files",
+                      "state": {}
+                    }
                   }
                 ]
               },
               {
-                "id": "d10cf4cd99db632e",
+                "id": "704b40050caf5e5f",
                 "type": "tabs",
+                "dimension": 20.546984572230016,
                 "children": [
                   {
                     "id": "68b49eccadd385bf",
@@ -168,12 +182,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deparse",
+                "query": "share.cscscience.ca",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -182,6 +196,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7ce31044315de553",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -206,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022/20221107.md",
+                "file": "journal/2023/20230911.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,29 +256,92 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022/20221107.md"
+                "file": "journal/2023/20230911.md"
               }
+            }
+          },
+          {
+            "id": "fd9188a358944221",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "journal/2023/20230911.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46cdf728eef40e0c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
   "active": "70f9f1f21cf84791",
   "lastOpenFiles": [
-    "R - Coding.md",
-    "journal/2022/20221107.md",
     "_/Quick Links.md",
-    "software/CSVTK.md",
-    "journal/2022/20220509.md",
+    "Share.md",
     "software/Git.md",
-    "Utilitarian.md",
-    "journal/2022/20220117.md",
-    "templates/templater/Software.md",
-    "templates/templater/Project.md"
+    "journal/2023/20230911.md",
+    "Nowcasting.md",
+    "journal/2023/20230515.md",
+    "journal/2023/20230508.md",
+    "renv.md",
+    "journal/2023/20230905.md",
+    "software/Obsidian.md",
+    "Docker.md",
+    "planemo.md",
+    "Mykrobe Parser.md",
+    "files/Pasted image 20230817124539.png",
+    "files/Pasted image 20230907113806.png",
+    "software/Starship.md",
+    "training/Decompression Day 3.md",
+    "software/PHV_Auspice.md",
+    "Galaxy.md",
+    "journal/2023/20230828.md",
+    "R - Coding.md",
+    "software/Conda.md",
+    "software/FIND.md",
+    "software/CSVTK.md",
+    "journal/2022/20221128.md",
+    "journal/2023/20230704.md",
+    "journal/2023/20230710.md",
+    "20230703.md",
+    "files/lupo.psd.crswap",
+    "files/lupo.psd",
+    "files/Pasted image 20230808125150.png",
+    "files/Pasted image 20230817110302.png",
+    "files/Pasted image 20230816112929.png",
+    "files/Pasted image 20230810114606.png",
+    "files/Pasted image 20230810114413.png",
+    "files/Pasted image 20230810113105.png",
+    "files/Pasted image 20230803140206.png",
+    "files/Pasted image 20230803140148.png",
+    "Untitled.canvas",
+    "Operational Report - Weekly - Layout.canvas"
   ]
 }

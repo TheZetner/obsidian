@@ -18,5 +18,7 @@
   "showInlineTitle": false,
   "userIgnoreFilters": [
     "templates/"
-  ]
+  ],
+  "spellcheck": true,
+  "spellcheckLanguages": null
 }

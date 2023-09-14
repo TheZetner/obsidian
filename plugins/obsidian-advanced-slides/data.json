@@ -5,6 +5,7 @@
   "enableChalkboard": false,
   "enableOverview": false,
   "enableMenu": false,
+  "enablePointer": false,
   "enableTimeBar": false,
   "theme": "black",
   "highlightTheme": "zenburn",
@@ -14,5 +15,7 @@
   "progress": true,
   "slideNumber": false,
   "showGrid": false,
-  "autoComplete": "inPreview"
+  "autoComplete": "inPreview",
+  "paneMode": "split",
+  "motm": "2023-06-29T12:33:14.130Z"
 }

@@ -101,14 +101,6 @@
     }
   ],
   "editor:toggle-checklist-status": [],
-  "hotkeysplus-obsidian:better-toggle-todo": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Enter"
-    }
-  ],
   "table-editor-obsidian:next-cell": [],
   "templater-obsidian:jump-to-next-cursor-location": [
     {
@@ -119,20 +111,12 @@
     }
   ],
   "insert-template": [],
-  "editor:follow-link": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Enter"
-    }
-  ],
   "editor:cycle-list-checklist": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "L"
+      "key": "Enter"
     }
   ],
   "workspace:next-tab": [
@@ -172,5 +156,32 @@
       ],
       "key": "E"
     }
-  ]
+  ],
+  "hotkeysplus-obsidian:better-toggle-todo": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
+  ],
+  "hotkeysplus-obsidian:toggle-bullet-number": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:open-link-in-new-leaf": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:open-link-in-new-split": []
 }

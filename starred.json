@@ -1,1 +1,9 @@
-{"items":[{"type":"file","title":"20201123","path":"journal/20201123.md"}]}
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "20201123",
+      "path": "journal/20201123.md"
+    }
+  ]
+}
