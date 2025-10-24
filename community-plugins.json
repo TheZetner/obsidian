@@ -1,6 +1,4 @@
 [
-  "table-editor-obsidian",
-  "obsidian-git",
   "obsidian-style-settings",
   "better-word-count",
   "obsidian-copy-block-link",
@@ -8,5 +6,8 @@
   "templater-obsidian",
   "hotkeysplus-obsidian",
   "obsidian-advanced-slides",
-  "tag-wrangler"
+  "tag-wrangler",
+  "obsidian-excalidraw-plugin",
+  "table-editor-obsidian",
+  "obsidian-git"
 ]

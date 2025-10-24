@@ -1,0 +1,348 @@
+{
+  "workspaces": {
+    "default": {
+      "main": {
+        "id": "1ad13ba5811d805f",
+        "type": "split",
+        "children": [
+          {
+            "id": "506c1196f33799ee",
+            "type": "tabs",
+            "dimension": 68.45667870036101,
+            "children": [
+              {
+                "id": "86ec4e2c84115b9d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "journal/2025/20251020.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "20251020"
+                },
+                "group": "add95ac79892f23a"
+              }
+            ]
+          },
+          {
+            "id": "cc2248eb4e1c3624",
+            "type": "split",
+            "dimension": 31.543321299638986,
+            "children": [
+              {
+                "id": "c8e0d568b07b40d1",
+                "type": "split",
+                "dimension": 42.69230769230769,
+                "children": [
+                  {
+                    "id": "af0f3d55eb592fef",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "632ae800e49cbcf9",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "_/Quick Links.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "pinned": true,
+                          "icon": "lucide-file",
+                          "title": "Quick Links"
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "e4684b140ac3cf85",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "8badc62c4cd9a1e8",
+                        "type": "leaf",
+                        "pinned": true,
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "_/Tasks.md",
+                            "mode": "source",
+                            "source": false
+                          },
+                          "pinned": true,
+                          "icon": "lucide-file",
+                          "title": "Tasks"
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              },
+              {
+                "id": "fe5221d34df23f01",
+                "type": "split",
+                "dimension": 57.30769230769231,
+                "children": [
+                  {
+                    "id": "6f9322a846fc3e72",
+                    "type": "split",
+                    "children": [
+                      {
+                        "id": "7aa5b4056dd46b4a",
+                        "type": "tabs",
+                        "children": [
+                          {
+                            "id": "c39a648ed4269fdd",
+                            "type": "leaf",
+                            "state": {
+                              "type": "outline",
+                              "state": {
+                                "file": "journal/2025/20251020.md",
+                                "followCursor": false,
+                                "showSearch": false,
+                                "searchQuery": ""
+                              },
+                              "icon": "lucide-list",
+                              "title": "Outline of 20251020"
+                            },
+                            "group": "add95ac79892f23a"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1576ec4c0d17a4a5",
+                        "type": "tabs",
+                        "children": [
+                          {
+                            "id": "39110a644c0b8aa5",
+                            "type": "leaf",
+                            "state": {
+                              "type": "outgoing-link",
+                              "state": {
+                                "file": "journal/2025/20251020.md",
+                                "linksCollapsed": false,
+                                "unlinkedCollapsed": true
+                              },
+                              "icon": "links-going-out",
+                              "title": "Outgoing links from 20251020"
+                            },
+                            "group": "add95ac79892f23a"
+                          }
+                        ]
+                      }
+                    ],
+                    "direction": "vertical"
+                  },
+                  {
+                    "id": "7f0d820af2216731",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "f7c556d5c475b6d2",
+                        "type": "leaf",
+                        "state": {
+                          "type": "localgraph",
+                          "state": {
+                            "file": "journal/2025/20251020.md",
+                            "options": {
+                              "collapse-filter": true,
+                              "search": "",
+                              "localJumps": 1,
+                              "localBacklinks": true,
+                              "localForelinks": true,
+                              "localInterlinks": false,
+                              "showTags": false,
+                              "showAttachments": false,
+                              "hideUnresolved": false,
+                              "collapse-color-groups": true,
+                              "colorGroups": [],
+                              "collapse-display": true,
+                              "showArrow": false,
+                              "textFadeMultiplier": 0,
+                              "nodeSizeMultiplier": 1,
+                              "lineSizeMultiplier": 1,
+                              "collapse-forces": true,
+                              "centerStrength": 0.518713248970312,
+                              "repelStrength": 10,
+                              "linkStrength": 1,
+                              "linkDistance": 250,
+                              "scale": 0.36288736930121174,
+                              "close": true
+                            }
+                          },
+                          "icon": "lucide-git-fork",
+                          "title": "Graph of 20251020"
+                        },
+                        "group": "add95ac79892f23a"
+                      }
+                    ]
+                  }
+                ],
+                "direction": "horizontal"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "2b257889ffbe5035",
+        "type": "split",
+        "children": [
+          {
+            "id": "b42ae95659e789a5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7401d80ec78c8a39",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byCreatedTime",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "364f5011ab1943f1",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "care package",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "161d87ff744e198b",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "b93560fd78f5fb3c",
+        "type": "split",
+        "children": [
+          {
+            "id": "b5b178568590e12e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "02227a26531692b3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "journal/2025/20250922.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 20250922"
+                }
+              },
+              {
+                "id": "f824b756ae4485cb",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "journal/2025/20250922.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 20250922"
+                }
+              },
+              {
+                "id": "c57de3e85d542a7a",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "d072e57f1ca6e713",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "journal/2025/20250922.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 20250922"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "bases:Create new base": false,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "markdown-importer:Open format converter": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "command-palette:Open command palette": false,
+          "random-note:Open random note": false,
+          "workspaces:Manage workspace layouts": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-advanced-slides:Show Slide Preview": false
+        }
+      },
+      "active": "86ec4e2c84115b9d",
+      "mtime": "2025-10-24T17:30:56-05:00"
+    }
+  },
+  "active": "default"
+}
