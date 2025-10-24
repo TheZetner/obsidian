@@ -79,7 +79,7 @@
   "editor:swap-line-up": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "ArrowUp"
     }
@@ -87,17 +87,9 @@
   "editor:swap-line-down": [
     {
       "modifiers": [
-        "Mod"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
-  "editor:toggle-fold": [
-    {
-      "modifiers": [
         "Alt"
       ],
-      "key": "ArrowUp"
+      "key": "ArrowDown"
     }
   ],
   "editor:toggle-checklist-status": [],
@@ -123,6 +115,13 @@
     {
       "modifiers": [
         "Alt"
+      ],
+      "key": "Enter"
+    },
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
       ],
       "key": "Enter"
     }
@@ -172,5 +171,16 @@
       ],
       "key": "E"
     }
-  ]
+  ],
+  "markdown:add-metadata-property": [],
+  "editor:open-link-in-new-leaf": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:open-link-in-new-split": []
 }
