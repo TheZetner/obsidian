@@ -12,5 +12,6 @@
   ],
   "translucency": false,
   "accentColor": "",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "monospaceFontFamily": "JetBrains Mono"
 }
